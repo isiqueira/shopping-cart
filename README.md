@@ -4,3 +4,4 @@
 [![Node.js CI](https://github.com/isiqueira/shopping-cart/actions/workflows/node.js.yml/badge.svg)](https://github.com/isiqueira/shopping-cart/actions/workflows/node.js.yml)
 
 
+Aplicação de estudo sobre DevOps.
